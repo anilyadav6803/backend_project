@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "env": "^0.0.2"
+    "env": "^0.0.2",
+    "prettier": "^3.2.5"
   }
 }
